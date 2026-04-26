@@ -1,6 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 
-const ecoConsultant = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "" });
+const apiKey = import.meta.env.VITE_GEMINI_API_KEY || "";
+const ecoConsultant = new GoogleGenAI({ apiKey });
 
 export async function analyzeCityDesign(grid: string[][], stats: any, districtName: string, cityContext: string) {
   const gridString = grid.map(row => row.join(" ")).join("\n");
