@@ -6,7 +6,7 @@
 [![Frontend](https://img.shields.io/badge/UI-React_%7C_Three.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Backend](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 
-*This README serves as the unified documentation for both the **[Grid by Grid Analysis](https://github.com/Codebank-Pranav-Tej-Ch-Network/Ecology-Project/)** and the **[3D Gamified Frontend Repository](https://github.com/Sathwik6174/EcoKnowledge-Game)**.*
+*This README serves as the unified documentation for both the **[Grid by Grid Analysis](https://github.com/Codebank-Pranav-Tej-Ch-Network/EcoCity-Architect/)** and the **[3D Gamified Frontend Repository](https://github.com/Sathwik6174/EcoKnowledge-Game)**.*
 
 ---
 
